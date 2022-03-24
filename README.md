@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NebojsaCenic
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 📫 e-mail: nebojsacenic97@gmail.com
 
 <!---
